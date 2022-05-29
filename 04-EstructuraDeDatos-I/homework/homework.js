@@ -57,20 +57,21 @@ Queue.prototype.dequeue = function(elem){
 Queue.prototype.size = function(){
   return this.array.length
 }
+ 
 
 // class Queue {
- // constructor() {
-  //  this.array = []
- // }
- // enqueue(elem) {
-  //  this.array.push(elem)
- // }
-   // dequeue(elem) {
-  //  return this.array.shift()
- // }
- // size() {
-   // return this.array.length
-  //}
+//  constructor() {
+//    this.array = []
+//  }
+//  enqueue(elem) {
+//    this.array.push(elem)
+//  }
+//    dequeue(elem) {
+//    return this.array.shift()
+//  }
+//  size() {
+//    return this.array.length
+//   }
 // }
 
 
